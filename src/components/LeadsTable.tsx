@@ -77,18 +77,18 @@ const LeadsTable = () => {
           <table className="min-w-full divide-y divide-gray-200">
             <thead className="bg-gray-50">
               <tr>
-                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 tracking-wider">
                   <button
                     onClick={() => onSort("name")}
-                    className="h-auto p-0 hover:bg-transparent flex items-center gap-1"
+                    className="h-auto p-0 hover:bg-transparent flex items-center gap-1 uppercase"
                   >
                     Name {getSortIcon("name")}
                   </button>
                 </th>
-                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 tracking-wider">
                   <button
                     onClick={() => onSort("company")}
-                    className="h-auto p-0 hover:bg-transparent flex items-center gap-1"
+                    className="h-auto p-0 hover:bg-transparent flex items-center gap-1 uppercase"
                   >
                     Company {getSortIcon("company")}
                   </button>
@@ -99,18 +99,18 @@ const LeadsTable = () => {
                 <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
                   Source
                 </th>
-                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 tracking-wider">
                   <button
                     onClick={() => onSort("score")}
-                    className="h-auto p-0 hover:bg-transparent flex items-center gap-1"
+                    className="h-auto p-0 hover:bg-transparent flex items-center gap-1 uppercase"
                   >
                     Score {getSortIcon("score")}
                   </button>
                 </th>
-                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 tracking-wider">
                   <button
                     onClick={() => onSort("status")}
-                    className="h-auto p-0 hover:bg-transparent flex items-center gap-1"
+                    className="h-auto p-0 hover:bg-transparent flex items-center gap-1 uppercase"
                   >
                     Status {getSortIcon("status")}
                   </button>
