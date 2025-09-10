@@ -31,7 +31,7 @@ const Index = () => {
           <p className="text-gray-400">Manage leads and convert them into opportunities</p>
         </div>
       </header>
-      <main className="container mx-auto px-6 py-6">
+      <main className="container mx-auto px-6 pt-6 pb-12">
         <div className="space-y-6">
           {/* Leads Section */}
           <div>

@@ -31,7 +31,7 @@ interface MiniSellerConsoleContextProps {
   onUpdateLead: (leadId: string, updates: Partial<Lead>) => Promise<void>;
   onConvertLeadToOpportunity: (lead: Lead) => void;
   onCreateOpportunity: (newOpportunity: Opportunity) => void;
-  onSelectLeadToEdit: (lead: Lead) => void
+  onSelectLeadToEdit: (lead: Lead) => void;
 }
 
 const MiniSellerConsoleContext = createContext<
@@ -148,6 +148,32 @@ export const MiniSellerConsoleProvider = ({
     );
 
     success("Opportunity created successfully");
+
+    setTimeout(() => {
+      const element = document.getElementById(newOpportunity.id);
+
+      if (element) {
+        element.scrollIntoView({
+          behavior: "smooth",
+          block: "center",
+        });
+
+        element.classList.add(
+          "bg-blue-50",
+          "ring-2",
+          "ring-blue-500",
+          "ring-inset"
+        );
+        setTimeout(() => {
+          element.classList.remove(
+            "bg-blue-50",
+            "ring-2",
+            "ring-blue-500",
+            "ring-inset"
+          );
+        }, 2000);
+      }
+    }, 100);
   };
 
   const handleFilterLeads = useCallback((filtered: Lead[]) => {
@@ -161,7 +187,7 @@ export const MiniSellerConsoleProvider = ({
 
   const handleSelectLeadToEdit = (lead: Lead) => {
     setPanelConfig((prev) => (prev ? { ...prev, editingLead: lead } : null));
-  }
+  };
 
   return (
     <MiniSellerConsoleContext.Provider
