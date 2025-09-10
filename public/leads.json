@@ -88,5 +88,4514 @@
     "source": "Cold Call",
     "score": 84,
     "status": "new"
+  },
+  {
+    "id": "L011",
+    "name": "Nicole Taylor",
+    "company": "NextGen Advisors",
+    "email": "nicole.taylor@nextgenadvisors.com",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L012",
+    "name": "Christopher Harris",
+    "company": "Harris & Sons Consulting",
+    "email": "chris@harrisandsons.com",
+    "source": "Referral",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "L013",
+    "name": "Maria Garcia",
+    "company": "Garcia Innovations",
+    "email": "maria.garcia@garcinnovations.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L014",
+    "name": "Thomas Clark",
+    "company": "Clark Enterprises",
+    "email": "t.clark@clarkenterprises.net",
+    "source": "Cold Call",
+    "score": 65,
+    "status": "new"
+  },
+  {
+    "id": "L015",
+    "name": "Jessica White",
+    "company": "WhiteSpace Tech",
+    "email": "j.white@whitespacetech.io",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L016",
+    "name": "Daniel Lewis",
+    "company": "Lewis Data Systems",
+    "email": "d.lewis@lewisdatasystems.com",
+    "source": "Website",
+    "score": 73,
+    "status": "contacted"
+  },
+  {
+    "id": "L017",
+    "name": "Susan King",
+    "company": "Kingdom Software",
+    "email": "s.king@kingdomsoftware.com",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L018",
+    "name": "Mark Robinson",
+    "company": "Robinson Robotics",
+    "email": "mark@robinsonrobotics.com",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "L019",
+    "name": "Patricia Wright",
+    "company": "Wright Solutions",
+    "email": "patricia@wrightsolutions.co",
+    "source": "Website",
+    "score": 74,
+    "status": "new"
+  },
+  {
+    "id": "L020",
+    "name": "Andrew Scott",
+    "company": "Scott & Associates",
+    "email": "andrew.scott@scottandassociates.com",
+    "source": "Cold Call",
+    "score": 69,
+    "status": "contacted"
+  },
+  {
+    "id": "L021",
+    "name": "Elizabeth Young",
+    "company": "Young Labs",
+    "email": "elizabeth@younglabs.org",
+    "source": "Trade Show",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": "L022",
+    "name": "Joshua Allen",
+    "company": "Allen Technologies",
+    "email": "joshua.allen@allentech.com",
+    "source": "Website",
+    "score": 80,
+    "status": "qualified"
+  },
+  {
+    "id": "L023",
+    "name": "Michelle Green",
+    "company": "Green Innovations",
+    "email": "michelle.green@greeninnovations.com",
+    "source": "LinkedIn",
+    "score": 76,
+    "status": "new"
+  },
+  {
+    "id": "L024",
+    "name": "Brian Hall",
+    "company": "Hallmark Systems",
+    "email": "brian.hall@hallmarksystems.net",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L025",
+    "name": "Ashley Baker",
+    "company": "Baker Consulting",
+    "email": "ashley@bakerconsulting.io",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L026",
+    "name": "Matthew Nelson",
+    "company": "Nelson & Partners",
+    "email": "matthew.nelson@nelsonpartners.com",
+    "source": "Cold Call",
+    "score": 71,
+    "status": "new"
+  },
+  {
+    "id": "L027",
+    "name": "Stephanie Carter",
+    "company": "Carter Solutions",
+    "email": "stephanie.carter@cartersolutions.com",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L028",
+    "name": "Timothy Mitchell",
+    "company": "Mitchell Group",
+    "email": "timothy@mitchellgroup.co",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L029",
+    "name": "Rebecca Perez",
+    "company": "Perez Tech",
+    "email": "rebecca.perez@pereztech.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L030",
+    "name": "Steven Roberts",
+    "company": "Roberts Analytics",
+    "email": "steven.roberts@robertsanalytics.com",
+    "source": "Referral",
+    "score": 79,
+    "status": "contacted"
+  },
+  {
+    "id": "L031",
+    "name": "Laura Turner",
+    "company": "Turner Designs",
+    "email": "laura.turner@turnerdesigns.com",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L032",
+    "name": "Jeffrey Phillips",
+    "company": "Phillips Innovations",
+    "email": "jeffrey@phillipsinnovations.io",
+    "source": "Cold Call",
+    "score": 66,
+    "status": "new"
+  },
+  {
+    "id": "L033",
+    "name": "Donna Campbell",
+    "company": "Campbell & Co",
+    "email": "donna.campbell@campbellandco.net",
+    "source": "Trade Show",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L034",
+    "name": "Richard Parker",
+    "company": "Parker Software",
+    "email": "richard.parker@parkersoftware.com",
+    "source": "Website",
+    "score": 72,
+    "status": "contacted"
+  },
+  {
+    "id": "L035",
+    "name": "Amy Evans",
+    "company": "Evans Enterprises",
+    "email": "amy.evans@evansenterprises.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L036",
+    "name": "Charles Edwards",
+    "company": "Edwards Solutions",
+    "email": "charles.edwards@edwardssolutions.com",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L037",
+    "name": "Angela Collins",
+    "company": "Collins Tech",
+    "email": "angela.collins@collinstech.co",
+    "source": "Website",
+    "score": 78,
+    "status": "qualified"
+  },
+  {
+    "id": "L038",
+    "name": "Kevin Stewart",
+    "company": "Stewart Systems",
+    "email": "kevin.stewart@stewartsystems.com",
+    "source": "Cold Call",
+    "score": 70,
+    "status": "new"
+  },
+  {
+    "id": "L039",
+    "name": "Ruth Morris",
+    "company": "Morris Media",
+    "email": "ruth.morris@morrismedia.org",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L040",
+    "name": "Jason Rogers",
+    "company": "Rogers Digital",
+    "email": "jason.rogers@rogersdigital.com",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L041",
+    "name": "Barbara Morgan",
+    "company": "Morgan Consulting",
+    "email": "barbara.morgan@morganconsulting.io",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L042",
+    "name": "Paul Bell",
+    "company": "Bell Technologies",
+    "email": "paul.bell@belltech.com",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L043",
+    "name": "Deborah Murphy",
+    "company": "Murphy Labs",
+    "email": "deborah.murphy@murphylabs.net",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L044",
+    "name": "George Bailey",
+    "company": "Bailey & Sons",
+    "email": "george.bailey@baileysons.com",
+    "source": "Cold Call",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "L045",
+    "name": "Sandra Rivera",
+    "company": "Rivera Innovations",
+    "email": "sandra.rivera@riverainnovations.com",
+    "source": "Trade Show",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L046",
+    "name": "Edward Cooper",
+    "company": "Cooper Solutions",
+    "email": "edward.cooper@coopersolutions.co",
+    "source": "Website",
+    "score": 73,
+    "status": "contacted"
+  },
+  {
+    "id": "L047",
+    "name": "Sharon Richardson",
+    "company": "Richardson Group",
+    "email": "sharon.richardson@richardsongroup.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L048",
+    "name": "Kenneth Cox",
+    "company": "Cox Enterprises",
+    "email": "kenneth.cox@coxenterprises.net",
+    "source": "Referral",
+    "score": 80,
+    "status": "contacted"
+  },
+  {
+    "id": "L049",
+    "name": "Carolyn Howard",
+    "company": "Howard Technologies",
+    "email": "carolyn.howard@howardtech.com",
+    "source": "Website",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "L050",
+    "name": "Donald Ward",
+    "company": "Ward & Associates",
+    "email": "donald.ward@wardassociates.io",
+    "source": "Cold Call",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": "L051",
+    "name": "Margaret Torres",
+    "company": "Torres Designs",
+    "email": "margaret.torres@torresdesigns.com",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L052",
+    "name": "Steven Peterson",
+    "company": "Peterson Software",
+    "email": "steven.peterson@petersonsoftware.com",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L053",
+    "name": "Betty Gray",
+    "company": "Gray Innovations",
+    "email": "betty.gray@grayinnovations.net",
+    "source": "LinkedIn",
+    "score": 83,
+    "status": "new"
+  },
+  {
+    "id": "L054",
+    "name": "Gary Ramirez",
+    "company": "Ramirez Systems",
+    "email": "gary.ramirez@ramirezsystems.com",
+    "source": "Referral",
+    "score": 79,
+    "status": "contacted"
+  },
+  {
+    "id": "L055",
+    "name": "Helen James",
+    "company": "James & Co",
+    "email": "helen.james@jamesandco.org",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L056",
+    "name": "Eric Watson",
+    "company": "Watson Analytics",
+    "email": "eric.watson@watsonanalytics.com",
+    "source": "Cold Call",
+    "score": 69,
+    "status": "new"
+  },
+  {
+    "id": "L057",
+    "name": "Dorothy Brooks",
+    "company": "Brooks Technology",
+    "email": "dorothy.brooks@brookstech.io",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L058",
+    "name": "Ronald Kelly",
+    "company": "Kelly Solutions",
+    "email": "ronald.kelly@kellysolutions.com",
+    "source": "Website",
+    "score": 74,
+    "status": "contacted"
+  },
+  {
+    "id": "L059",
+    "name": "Brenda Sanders",
+    "company": "Sanders Group",
+    "email": "brenda.sanders@sandersgroup.net",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L060",
+    "name": "Anthony Price",
+    "company": "Price Consulting",
+    "email": "anthony.price@priceconsulting.com",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L061",
+    "name": "Pamela Bennett",
+    "company": "Bennett Labs",
+    "email": "pamela.bennett@bennettlabs.com",
+    "source": "Website",
+    "score": 86,
+    "status": "qualified"
+  },
+  {
+    "id": "L062",
+    "name": "Kevin Wood",
+    "company": "Wood Innovations",
+    "email": "kevin.wood@woodinnovations.co",
+    "source": "Cold Call",
+    "score": 70,
+    "status": "new"
+  },
+  {
+    "id": "L063",
+    "name": "Janet Barnes",
+    "company": "Barnes Media",
+    "email": "janet.barnes@barnesmedia.org",
+    "source": "Trade Show",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L064",
+    "name": "Larry Ross",
+    "company": "Ross Enterprises",
+    "email": "larry.ross@rossenterprises.com",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L065",
+    "name": "Debra Henderson",
+    "company": "Henderson Tech",
+    "email": "debra.henderson@hendersontech.net",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L066",
+    "name": "Frank Coleman",
+    "company": "Coleman & Sons",
+    "email": "frank.coleman@colemansons.com",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L067",
+    "name": "Virginia Jenkins",
+    "company": "Jenkins Solutions",
+    "email": "virginia.jenkins@jenkinssolutions.io",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L068",
+    "name": "Scott Perry",
+    "company": "Perry Systems",
+    "email": "scott.perry@perrysystems.com",
+    "source": "Cold Call",
+    "score": 65,
+    "status": "new"
+  },
+  {
+    "id": "L069",
+    "name": "Cheryl Powell",
+    "company": "Powell Designs",
+    "email": "cheryl.powell@powelldesigns.com",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L070",
+    "name": "Eric Long",
+    "company": "Long Technologies",
+    "email": "eric.long@longtech.com",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L071",
+    "name": "Megan Patterson",
+    "company": "Patterson Group",
+    "email": "megan.patterson@pattersongroup.net",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "L072",
+    "name": "Jonathan Hughes",
+    "company": "Hughes Innovations",
+    "email": "jonathan.hughes@hughesinnovations.com",
+    "source": "Referral",
+    "score": 80,
+    "status": "contacted"
+  },
+  {
+    "id": "L073",
+    "name": "Katherine Flores",
+    "company": "Flores Tech",
+    "email": "katherine.flores@florestech.co",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L074",
+    "name": "Raymond Washington",
+    "company": "Washington & Co",
+    "email": "raymond.washington@washingtonco.com",
+    "source": "Cold Call",
+    "score": 66,
+    "status": "new"
+  },
+  {
+    "id": "L075",
+    "name": "Anna Butler",
+    "company": "Butler Solutions",
+    "email": "anna.butler@butlersolutions.org",
+    "source": "Trade Show",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": "L076",
+    "name": "Peter Simmons",
+    "company": "Simmons Analytics",
+    "email": "peter.simmons@simmonsanalytics.com",
+    "source": "Website",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "L077",
+    "name": "Victoria Foster",
+    "company": "Foster Enterprises",
+    "email": "victoria.foster@fosterenterprises.net",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L078",
+    "name": "Walter Gonzales",
+    "company": "Gonzales Group",
+    "email": "walter.gonzales@gonzalesgroup.com",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L079",
+    "name": "Heather Bryant",
+    "company": "Bryant Labs",
+    "email": "heather.bryant@bryantlabs.io",
+    "source": "Website",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "L080",
+    "name": "Patrick Alexander",
+    "company": "Alexander Systems",
+    "email": "patrick.alexander@alexandersystems.com",
+    "source": "Cold Call",
+    "score": 71,
+    "status": "new"
+  },
+  {
+    "id": "L081",
+    "name": "Christina Russell",
+    "company": "Russell Technologies",
+    "email": "christina.russell@russelltech.com",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L082",
+    "name": "Gregory Griffin",
+    "company": "Griffin Consulting",
+    "email": "gregory.griffin@griffinconsulting.net",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L083",
+    "name": "Amy Diaz",
+    "company": "Diaz Innovations",
+    "email": "amy.diaz@diazinnovations.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L084",
+    "name": "Jerry Hayes",
+    "company": "Hayes Solutions",
+    "email": "jerry.hayes@hayessolutions.co",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L085",
+    "name": "Rachel Myers",
+    "company": "Myers Media",
+    "email": "rachel.myers@myersmedia.org",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L086",
+    "name": "Dennis Ford",
+    "company": "Ford Enterprises",
+    "email": "dennis.ford@fordenterprises.com",
+    "source": "Cold Call",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "L087",
+    "name": "Maria Murray",
+    "company": "Murray Group",
+    "email": "maria.murray@murraygroup.net",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L088",
+    "name": "Arthur Freeman",
+    "company": "Freeman Tech",
+    "email": "arthur.freeman@freemantech.com",
+    "source": "Website",
+    "score": 73,
+    "status": "contacted"
+  },
+  {
+    "id": "L089",
+    "name": "Jacqueline Wells",
+    "company": "Wells Innovations",
+    "email": "jacqueline.wells@wellsinnovations.io",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L090",
+    "name": "Henry Webb",
+    "company": "Webb & Associates",
+    "email": "henry.webb@webbassociates.com",
+    "source": "Referral",
+    "score": 79,
+    "status": "contacted"
+  },
+  {
+    "id": "L091",
+    "name": "Evelyn Simpson",
+    "company": "Simpson Solutions",
+    "email": "evelyn.simpson@simpsonsolutions.co",
+    "source": "Website",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L092",
+    "name": "Jack Stevens",
+    "company": "Stevens Technologies",
+    "email": "jack.stevens@stevenstech.com",
+    "source": "Cold Call",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": "L093",
+    "name": "Andrea Tucker",
+    "company": "Tucker Labs",
+    "email": "andrea.tucker@tuckerlabs.net",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L094",
+    "name": "Willie Porter",
+    "company": "Porter Software",
+    "email": "willie.porter@portersoftware.com",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L095",
+    "name": "Gloria Hunter",
+    "company": "Hunter Consulting",
+    "email": "gloria.hunter@hunterconsulting.org",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L096",
+    "name": "Billy Hicks",
+    "company": "Hicks Group",
+    "email": "billy.hicks@hicksgroup.com",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L097",
+    "name": "Julia Crawford",
+    "company": "Crawford Designs",
+    "email": "julia.crawford@crawforddesigns.com",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L098",
+    "name": "Roy Boyd",
+    "company": "Boyd Systems",
+    "email": "roy.boyd@boydsystems.io",
+    "source": "Cold Call",
+    "score": 69,
+    "status": "new"
+  },
+  {
+    "id": "L099",
+    "name": "Judith Mason",
+    "company": "Mason Innovations",
+    "email": "judith.mason@masoninnovations.com",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L100",
+    "name": "Dylan Morales",
+    "company": "Morales Tech",
+    "email": "dylan.morales@moralestech.net",
+    "source": "Website",
+    "score": 74,
+    "status": "contacted"
+  },
+  {
+    "id": "L101",
+    "name": "Sophia Reynolds",
+    "company": "Reynolds Solutions",
+    "email": "sophia.reynolds@reynoldssolutions.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L102",
+    "name": "Johnny Olson",
+    "company": "Olson Group",
+    "email": "johnny.olson@olsongroup.co",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L103",
+    "name": "Theresa Duncan",
+    "company": "Duncan Enterprises",
+    "email": "theresa.duncan@duncanenterprises.com",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L104",
+    "name": "Phillip Arnold",
+    "company": "Arnold Technologies",
+    "email": "phillip.arnold@arnoldtech.net",
+    "source": "Cold Call",
+    "score": 70,
+    "status": "new"
+  },
+  {
+    "id": "L105",
+    "name": "Mildred Pierce",
+    "company": "Pierce & Co",
+    "email": "mildred.pierce@pierceandco.org",
+    "source": "Trade Show",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": "L106",
+    "name": "Bobby Hart",
+    "company": "Hart Software",
+    "email": "bobby.hart@hartsoftware.com",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L107",
+    "name": "Denise Cunningham",
+    "company": "Cunningham Labs",
+    "email": "denise.cunningham@cunninghamlabs.io",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "L108",
+    "name": "Harry Knight",
+    "company": "Knight Innovations",
+    "email": "harry.knight@knightinnovations.com",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L109",
+    "name": "Diane Bradley",
+    "company": "Bradley Tech",
+    "email": "diane.bradley@bradleytech.net",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L110",
+    "name": "Roy Carroll",
+    "company": "Carroll Systems",
+    "email": "roy.carroll@carrollsystems.com",
+    "source": "Cold Call",
+    "score": 65,
+    "status": "new"
+  },
+  {
+    "id": "L111",
+    "name": "Alice Hudson",
+    "company": "Hudson Group",
+    "email": "alice.hudson@hudsongroup.com",
+    "source": "Trade Show",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L112",
+    "name": "Carlos Riley",
+    "company": "Riley Consulting",
+    "email": "carlos.riley@rileyconsulting.co",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L113",
+    "name": "Joyce Burns",
+    "company": "Burns Technologies",
+    "email": "joyce.burns@burnstech.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L114",
+    "name": "Victor Shaw",
+    "company": "Shaw Solutions",
+    "email": "victor.shaw@shawsolutions.net",
+    "source": "Referral",
+    "score": 80,
+    "status": "contacted"
+  },
+  {
+    "id": "L115",
+    "name": "Emma Gordon",
+    "company": "Gordon Designs",
+    "email": "emma.gordon@gordondesigns.org",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L116",
+    "name": "Ralph Wheeler",
+    "company": "Wheeler Enterprises",
+    "email": "ralph.wheeler@wheelerenterprises.com",
+    "source": "Cold Call",
+    "score": 66,
+    "status": "new"
+  },
+  {
+    "id": "L117",
+    "name": "Rose Lawson",
+    "company": "Lawson Innovations",
+    "email": "rose.lawson@lawsoninnovations.io",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L118",
+    "name": "Douglas Fletcher",
+    "company": "Fletcher Group",
+    "email": "douglas.fletcher@fletchergroup.com",
+    "source": "Website",
+    "score": 73,
+    "status": "contacted"
+  },
+  {
+    "id": "L119",
+    "name": "Lori Daniels",
+    "company": "Daniels Tech",
+    "email": "lori.daniels@danielstech.net",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L120",
+    "name": "Alan Spencer",
+    "company": "Spencer Solutions",
+    "email": "alan.spencer@spencersolutions.com",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L121",
+    "name": "Ann Richards",
+    "company": "Richards & Co",
+    "email": "ann.richards@richardsandco.org",
+    "source": "Website",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "L122",
+    "name": "Wayne Hamilton",
+    "company": "Hamilton Systems",
+    "email": "wayne.hamilton@hamiltonsystems.com",
+    "source": "Cold Call",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "L123",
+    "name": "Tina Snyder",
+    "company": "Snyder Labs",
+    "email": "tina.snyder@snyderlabs.io",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L124",
+    "name": "Bruce Hart",
+    "company": "Hart Technologies",
+    "email": "bruce.hart@harttechnologies.com",
+    "source": "Website",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "L125",
+    "name": "Beverly Foster",
+    "company": "Foster Consulting",
+    "email": "beverly.foster@fosterconsulting.net",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L126",
+    "name": "Brandon Greene",
+    "company": "Greene Innovations",
+    "email": "brandon.greene@greeneinnovations.com",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L127",
+    "name": "Jane Wallace",
+    "company": "Wallace Group",
+    "email": "jane.wallace@wallacegroup.co",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L128",
+    "name": "Eugene Sullivan",
+    "company": "Sullivan Enterprises",
+    "email": "eugene.sullivan@sullivanenterprises.com",
+    "source": "Cold Call",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": "L129",
+    "name": "Irene Woods",
+    "company": "Woods Solutions",
+    "email": "irene.woods@woodssolutions.org",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L130",
+    "name": "Aaron Cole",
+    "company": "Cole Technologies",
+    "email": "aaron.cole@coletech.com",
+    "source": "Website",
+    "score": 74,
+    "status": "contacted"
+  },
+  {
+    "id": "L131",
+    "name": "Julie West",
+    "company": "West Media",
+    "email": "julie.west@westmedia.net",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L132",
+    "name": "Howard Jordan",
+    "company": "Jordan & Sons",
+    "email": "howard.jordan@jordansons.com",
+    "source": "Referral",
+    "score": 79,
+    "status": "contacted"
+  },
+  {
+    "id": "L133",
+    "name": "Kathleen Owens",
+    "company": "Owens Labs",
+    "email": "kathleen.owens@owenslabs.io",
+    "source": "Website",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L134",
+    "name": "Sean Reynolds",
+    "company": "Reynolds Group",
+    "email": "sean.reynolds@reynoldsgroup.com",
+    "source": "Cold Call",
+    "score": 69,
+    "status": "new"
+  },
+  {
+    "id": "L135",
+    "name": "Lois Fisher",
+    "company": "Fisher Innovations",
+    "email": "lois.fisher@fisherinnovations.com",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L136",
+    "name": "Russell Ellis",
+    "company": "Ellis Systems",
+    "email": "russell.ellis@ellissystems.net",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L137",
+    "name": "Gerald Harrison",
+    "company": "Harrison Tech",
+    "email": "gerald.harrison@harrisontech.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L138",
+    "name": "Diana Gibson",
+    "company": "Gibson Consulting",
+    "email": "diana.gibson@gibsonconsulting.co",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L139",
+    "name": "Keith Mcdonald",
+    "company": "Mcdonald Labs",
+    "email": "keith.mcdonald@mcdonaldlabs.org",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L140",
+    "name": "Phyllis Cruz",
+    "company": "Cruz Enterprises",
+    "email": "phyllis.cruz@cruzent.com",
+    "source": "Cold Call",
+    "score": 70,
+    "status": "new"
+  },
+  {
+    "id": "L141",
+    "name": "Samuel Marshall",
+    "company": "Marshall Group",
+    "email": "samuel.marshall@marshallgroup.com",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L142",
+    "name": "Teresa Ortiz",
+    "company": "Ortiz Solutions",
+    "email": "teresa.ortiz@ortizsolutions.net",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L143",
+    "name": "Benjamin Gomez",
+    "company": "Gomez Technologies",
+    "email": "benjamin.gomez@gomeztech.io",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L144",
+    "name": "Dawn Murray",
+    "company": "Murray & Co",
+    "email": "dawn.murray@murrayandco.com",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L145",
+    "name": "Nathan Freeman",
+    "company": "Freeman Designs",
+    "email": "nathan.freeman@freemandesigns.com",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L146",
+    "name": "Marjorie Wells",
+    "company": "Wells Group",
+    "email": "marjorie.wells@wellsgroup.org",
+    "source": "Cold Call",
+    "score": 71,
+    "status": "new"
+  },
+  {
+    "id": "L147",
+    "name": "Louis Webb",
+    "company": "Webb Innovations",
+    "email": "louis.webb@webbinnovations.com",
+    "source": "Trade Show",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": "L148",
+    "name": "Glenda Simpson",
+    "company": "Simpson Tech",
+    "email": "glenda.simpson@simpsontech.net",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L149",
+    "name": "Rodney Stevens",
+    "company": "Stevens Consulting",
+    "email": "rodney.stevens@stevensconsulting.io",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "L150",
+    "name": "Vivian Tucker",
+    "company": "Tucker Solutions",
+    "email": "vivian.tucker@tuckersolutions.com",
+    "source": "Referral",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": "L151",
+    "name": "Alexander Porter",
+    "company": "Porter Group",
+    "email": "alexander.porter@portergroup.co",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L152",
+    "name": "Sara Hunter",
+    "company": "Hunter Technologies",
+    "email": "sara.hunter@huntertech.com",
+    "source": "Cold Call",
+    "score": 66,
+    "status": "new"
+  },
+  {
+    "id": "L153",
+    "name": "John Hicks",
+    "company": "Hicks & Associates",
+    "email": "john.hicks@hicksassociates.net",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L154",
+    "name": "Emma Crawford",
+    "company": "Crawford Labs",
+    "email": "emma.crawford@crawfordlabs.org",
+    "source": "Website",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "L155",
+    "name": "Peter Boyd",
+    "company": "Boyd Innovations",
+    "email": "peter.boyd@boydinnovations.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L156",
+    "name": "Charlotte Mason",
+    "company": "Mason Solutions",
+    "email": "charlotte.mason@masonsolutions.io",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L157",
+    "name": "Ethan Morales",
+    "company": "Morales Group",
+    "email": "ethan.morales@moralesgroup.com",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L158",
+    "name": "Grace Reynolds",
+    "company": "Reynolds Tech",
+    "email": "grace.reynolds@reynoldstech.net",
+    "source": "Cold Call",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "L159",
+    "name": "Hannah Olson",
+    "company": "Olson Enterprises",
+    "email": "hannah.olson@olsonenterprises.com",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L160",
+    "name": "Logan Duncan",
+    "company": "Duncan Systems",
+    "email": "logan.duncan@duncansystems.org",
+    "source": "Website",
+    "score": 73,
+    "status": "contacted"
+  },
+  {
+    "id": "L161",
+    "name": "Zoe Arnold",
+    "company": "Arnold Consulting",
+    "email": "zoe.arnold@arnoldconsulting.io",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L162",
+    "name": "Carter Pierce",
+    "company": "Pierce Technologies",
+    "email": "carter.pierce@piercetech.com",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L163",
+    "name": "Lily Hart",
+    "company": "Hart Designs",
+    "email": "lily.hart@hartdesigns.co",
+    "source": "Website",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L164",
+    "name": "Wyatt Cunningham",
+    "company": "Cunningham Group",
+    "email": "wyatt.cunningham@cunninghamgroup.com",
+    "source": "Cold Call",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": "L165",
+    "name": "Chloe Knight",
+    "company": "Knight Labs",
+    "email": "chloe.knight@knightlabs.net",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L166",
+    "name": "Owen Bradley",
+    "company": "Bradley Systems",
+    "email": "owen.bradley@bradleysystems.org",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L167",
+    "name": "Penelope Carroll",
+    "company": "Carroll Innovations",
+    "email": "penelope.carroll@carrollinnovations.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L168",
+    "name": "Luke Hudson",
+    "company": "Hudson Solutions",
+    "email": "luke.hudson@hudsonsolutions.io",
+    "source": "Referral",
+    "score": 80,
+    "status": "contacted"
+  },
+  {
+    "id": "L169",
+    "name": "Eleanor Riley",
+    "company": "Riley Tech",
+    "email": "eleanor.riley@rileytech.com",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L170",
+    "name": "Daniel Burns",
+    "company": "Burns Group",
+    "email": "daniel.burns@burnsgroup.net",
+    "source": "Cold Call",
+    "score": 69,
+    "status": "new"
+  },
+  {
+    "id": "L171",
+    "name": "Mia Shaw",
+    "company": "Shaw Innovations",
+    "email": "mia.shaw@shawinnovations.com",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L172",
+    "name": "Henry Gordon",
+    "company": "Gordon Systems",
+    "email": "henry.gordon@gordonsystems.org",
+    "source": "Website",
+    "score": 74,
+    "status": "contacted"
+  },
+  {
+    "id": "L173",
+    "name": "Ava Wheeler",
+    "company": "Wheeler Labs",
+    "email": "ava.wheeler@wheelerlabs.io",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L174",
+    "name": "Jackson Lawson",
+    "company": "Lawson Consulting",
+    "email": "jackson.lawson@lawsonconsulting.com",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L175",
+    "name": "Harper Fletcher",
+    "company": "Fletcher Technologies",
+    "email": "harper.fletcher@fletchertech.net",
+    "source": "Website",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "L176",
+    "name": "Sebastian Daniels",
+    "company": "Daniels Group",
+    "email": "sebastian.daniels@danielsgroup.com",
+    "source": "Cold Call",
+    "score": 70,
+    "status": "new"
+  },
+  {
+    "id": "L177",
+    "name": "Ella Spencer",
+    "company": "Spencer Innovations",
+    "email": "ella.spencer@spencerinnovations.co",
+    "source": "Trade Show",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": "L178",
+    "name": "Aiden Richards",
+    "company": "Richards Labs",
+    "email": "aiden.richards@richardslabs.org",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L179",
+    "name": "Scarlett Hamilton",
+    "company": "Hamilton Designs",
+    "email": "scarlett.hamilton@hamiltondesigns.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L180",
+    "name": "Mateo Snyder",
+    "company": "Snyder Solutions",
+    "email": "mateo.snyder@snyderesolutions.io",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L181",
+    "name": "Luna Hart",
+    "company": "Hart Media",
+    "email": "luna.hart@hartmedia.net",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L182",
+    "name": "David Foster",
+    "company": "Foster Group",
+    "email": "david.foster@fostergroup.com",
+    "source": "Cold Call",
+    "score": 65,
+    "status": "new"
+  },
+  {
+    "id": "L183",
+    "name": "Stella Greene",
+    "company": "Greene Systems",
+    "email": "stella.greene@greenesystems.org",
+    "source": "Trade Show",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L184",
+    "name": "Joseph Wallace",
+    "company": "Wallace Tech",
+    "email": "joseph.wallace@wallacetech.io",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L185",
+    "name": "Violet Sullivan",
+    "company": "Sullivan Labs",
+    "email": "violet.sullivan@sullivanlabs.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L186",
+    "name": "Samuel Woods",
+    "company": "Woods Innovations",
+    "email": "samuel.woods@woodsinnovations.net",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L187",
+    "name": "Hazel Cole",
+    "company": "Cole Consulting",
+    "email": "hazel.cole@coleconsulting.co",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L188",
+    "name": "Oscar West",
+    "company": "West Solutions",
+    "email": "oscar.west@westsolutions.com",
+    "source": "Cold Call",
+    "score": 66,
+    "status": "new"
+  },
+  {
+    "id": "L189",
+    "name": "Nora Jordan",
+    "company": "Jordan Technologies",
+    "email": "nora.jordan@jordantech.org",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L190",
+    "name": "Leo Owens",
+    "company": "Owens Group",
+    "email": "leo.owens@owensgroup.com",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L191",
+    "name": "Lillian Reynolds",
+    "company": "Reynolds Designs",
+    "email": "lillian.reynolds@reynoldsdesigns.io",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "L192",
+    "name": "Theo Fisher",
+    "company": "Fisher Systems",
+    "email": "theo.fisher@fishersystems.net",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L193",
+    "name": "Aurora Ellis",
+    "company": "Ellis Innovations",
+    "email": "aurora.ellis@ellisinnovations.com",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L194",
+    "name": "Max Harrison",
+    "company": "Harrison Labs",
+    "email": "max.harrison@harrisonlabs.org",
+    "source": "Cold Call",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "L195",
+    "name": "Riley Gibson",
+    "company": "Gibson Technologies",
+    "email": "riley.gibson@gibsontech.com",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L196",
+    "name": "Ellie Mcdonald",
+    "company": "Mcdonald Group",
+    "email": "ellie.mcdonald@mcdonaldgroup.io",
+    "source": "Website",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "L197",
+    "name": "Caleb Cruz",
+    "company": "Cruz Solutions",
+    "email": "caleb.cruz@cruzsolutions.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L198",
+    "name": "Nova Marshall",
+    "company": "Marshall Designs",
+    "email": "nova.marshall@marshalldesigns.net",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L199",
+    "name": "Hudson Ortiz",
+    "company": "Ortiz Tech",
+    "email": "hudson.ortiz@ortiztech.org",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L200",
+    "name": "Lydia Gomez",
+    "company": "Gomez Labs",
+    "email": "lydia.gomez@gomezlabs.com",
+    "source": "Cold Call",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": "L201",
+    "name": "Eli Murray",
+    "company": "Murray Systems",
+    "email": "eli.murray@murraysystems.io",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L202",
+    "name": "Zara Freeman",
+    "company": "Freeman Consulting",
+    "email": "zara.freeman@freemanconsulting.com",
+    "source": "Website",
+    "score": 74,
+    "status": "contacted"
+  },
+  {
+    "id": "L203",
+    "name": "Asher Wells",
+    "company": "Wells Technologies",
+    "email": "asher.wells@wellstech.net",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L204",
+    "name": "Levi Webb",
+    "company": "Webb Group",
+    "email": "levi.webb@webbgroup.org",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L205",
+    "name": "Willow Simpson",
+    "company": "Simpson Innovations",
+    "email": "willow.simpson@simpsoninnovations.com",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L206",
+    "name": "Jayden Stevens",
+    "company": "Stevens Labs",
+    "email": "jayden.stevens@stevenslabs.io",
+    "source": "Cold Call",
+    "score": 69,
+    "status": "new"
+  },
+  {
+    "id": "L207",
+    "name": "Maya Tucker",
+    "company": "Tucker Group",
+    "email": "maya.tucker@tuckergroup.com",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L208",
+    "name": "Gabriel Porter",
+    "company": "Porter Solutions",
+    "email": "gabriel.porter@portersolutions.net",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L209",
+    "name": "Ivy Hunter",
+    "company": "Hunter Designs",
+    "email": "ivy.hunter@hunterdesigns.org",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L210",
+    "name": "Julian Hicks",
+    "company": "Hicks Technologies",
+    "email": "julian.hicks@hickstech.com",
+    "source": "Referral",
+    "score": 80,
+    "status": "contacted"
+  },
+  {
+    "id": "L211",
+    "name": "Emery Crawford",
+    "company": "Crawford Systems",
+    "email": "emery.crawford@crawfordsystems.io",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L212",
+    "name": "Miles Boyd",
+    "company": "Boyd Consulting",
+    "email": "miles.boyd@boydconsulting.com",
+    "source": "Cold Call",
+    "score": 70,
+    "status": "new"
+  },
+  {
+    "id": "L213",
+    "name": "Sawyer Mason",
+    "company": "Mason Labs",
+    "email": "sawyer.mason@masonlabs.net",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L214",
+    "name": "Bella Morales",
+    "company": "Morales Solutions",
+    "email": "bella.morales@moralessolutions.org",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L215",
+    "name": "Elias Reynolds",
+    "company": "Reynolds Group",
+    "email": "elias.reynolds@reynoldsgroup.co",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L216",
+    "name": "Ayla Olson",
+    "company": "Olson Technologies",
+    "email": "ayla.olson@olsentech.com",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L217",
+    "name": "Wyatt Duncan",
+    "company": "Duncan Designs",
+    "email": "wyatt.duncan@duncandesigns.io",
+    "source": "Website",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "L218",
+    "name": "Eleanor Arnold",
+    "company": "Arnold Group",
+    "email": "eleanor.arnold@arnoldgroup.com",
+    "source": "Cold Call",
+    "score": 71,
+    "status": "new"
+  },
+  {
+    "id": "L219",
+    "name": "Hannah Pierce",
+    "company": "Pierce Innovations",
+    "email": "hannah.pierce@pierceinnovations.net",
+    "source": "Trade Show",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": "L220",
+    "name": "Carter Hart",
+    "company": "Hart Systems",
+    "email": "carter.hart@hartsystems.org",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L221",
+    "name": "Luna Cunningham",
+    "company": "Cunningham Tech",
+    "email": "luna.cunningham@cunninghamtech.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L222",
+    "name": "Jack Knight",
+    "company": "Knight Consulting",
+    "email": "jack.knight@knightconsulting.io",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L223",
+    "name": "Aria Bradley",
+    "company": "Bradley Media",
+    "email": "aria.bradley@bradleymedia.net",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L224",
+    "name": "Luke Carroll",
+    "company": "Carroll Labs",
+    "email": "luke.carroll@carrolllabs.com",
+    "source": "Cold Call",
+    "score": 66,
+    "status": "new"
+  },
+  {
+    "id": "L225",
+    "name": "Layla Hudson",
+    "company": "Hudson Innovations",
+    "email": "layla.hudson@hudsoninnovations.org",
+    "source": "Trade Show",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L226",
+    "name": "Nathan Riley",
+    "company": "Riley Systems",
+    "email": "nathan.riley@rileysystems.co",
+    "source": "Website",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "L227",
+    "name": "Zoey Burns",
+    "company": "Burns Technologies",
+    "email": "zoey.burns@burnstech.io",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L228",
+    "name": "Ryan Shaw",
+    "company": "Shaw Group",
+    "email": "ryan.shaw@shawgroup.com",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L229",
+    "name": "Penelope Gordon",
+    "company": "Gordon Solutions",
+    "email": "penelope.gordon@gordonsolutions.net",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L230",
+    "name": "Henry Wheeler",
+    "company": "Wheeler Consulting",
+    "email": "henry.wheeler@wheelerconsulting.org",
+    "source": "Cold Call",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "L231",
+    "name": "Stella Lawson",
+    "company": "Lawson Technologies",
+    "email": "stella.lawson@lawsonttech.com",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L232",
+    "name": "Owen Fletcher",
+    "company": "Fletcher Designs",
+    "email": "owen.fletcher@fletcherdesigns.io",
+    "source": "Website",
+    "score": 73,
+    "status": "contacted"
+  },
+  {
+    "id": "L233",
+    "name": "Nora Daniels",
+    "company": "Daniels Innovations",
+    "email": "nora.daniels@danielsinnovations.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L234",
+    "name": "Samuel Spencer",
+    "company": "Spencer Labs",
+    "email": "samuel.spencer@spencerlabs.net",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L235",
+    "name": "Hazel Richards",
+    "company": "Richards Systems",
+    "email": "hazel.richards@richardssystems.org",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L236",
+    "name": "Dylan Hamilton",
+    "company": "Hamilton Group",
+    "email": "dylan.hamilton@hamiltongroup.co",
+    "source": "Cold Call",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": "L237",
+    "name": "Violet Snyder",
+    "company": "Snyder Tech",
+    "email": "violet.snyder@snydertech.com",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L238",
+    "name": "Leo Hart",
+    "company": "Hart Solutions",
+    "email": "leo.hart@hartsolutions.io",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L239",
+    "name": "Aurora Foster",
+    "company": "Foster Innovations",
+    "email": "aurora.foster@fosterinnovations.net",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L240",
+    "name": "Theo Greene",
+    "company": "Greene Designs",
+    "email": "theo.greene@greenedesigns.com",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L241",
+    "name": "Luna Wallace",
+    "company": "Wallace Group",
+    "email": "luna.wallace@wallacegroup.org",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L242",
+    "name": "Max Sullivan",
+    "company": "Sullivan Technologies",
+    "email": "max.sullivan@sullivantech.com",
+    "source": "Cold Call",
+    "score": 69,
+    "status": "new"
+  },
+  {
+    "id": "L243",
+    "name": "Riley Woods",
+    "company": "Woods Labs",
+    "email": "riley.woods@woodslabs.io",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L244",
+    "name": "Ellie Cole",
+    "company": "Cole Innovations",
+    "email": "ellie.cole@coleinnovations.net",
+    "source": "Website",
+    "score": 74,
+    "status": "contacted"
+  },
+  {
+    "id": "L245",
+    "name": "Caleb West",
+    "company": "West Consulting",
+    "email": "caleb.west@westconsulting.com",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "L246",
+    "name": "Nova Jordan",
+    "company": "Jordan Solutions",
+    "email": "nova.jordan@jordansolutions.org",
+    "source": "Referral",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": "L247",
+    "name": "Hudson Owens",
+    "company": "Owens Technologies",
+    "email": "hudson.owens@owenstech.co",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L248",
+    "name": "Lydia Reynolds",
+    "company": "Reynolds Labs",
+    "email": "lydia.reynolds@reynoldslabs.com",
+    "source": "Cold Call",
+    "score": 70,
+    "status": "new"
+  },
+  {
+    "id": "L249",
+    "name": "Eli Fisher",
+    "company": "Fisher Group",
+    "email": "eli.fisher@fishergroup.net",
+    "source": "Trade Show",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": "L250",
+    "name": "Zara Ellis",
+    "company": "Ellis Consulting",
+    "email": "zara.ellis@ellisconsulting.io",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L251",
+    "name": "Asher Harrison",
+    "company": "Harrison Designs",
+    "email": "asher.harrison@harrisondesigns.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L252",
+    "name": "Levi Gibson",
+    "company": "Gibson Innovations",
+    "email": "levi.gibson@gibsoninnovations.org",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L253",
+    "name": "Willow Mcdonald",
+    "company": "Mcdonald Solutions",
+    "email": "willow.mcdonald@mcdonaldsolutions.co",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L254",
+    "name": "Jayden Cruz",
+    "company": "Cruz Group",
+    "email": "jayden.cruz@cruzgroup.com",
+    "source": "Cold Call",
+    "score": 71,
+    "status": "new"
+  },
+  {
+    "id": "L255",
+    "name": "Maya Marshall",
+    "company": "Marshall Technologies",
+    "email": "maya.marshall@marshalltech.net",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L256",
+    "name": "Gabriel Ortiz",
+    "company": "Ortiz Labs",
+    "email": "gabriel.ortiz@ortizlabs.io",
+    "source": "Website",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "L257",
+    "name": "Ivy Gomez",
+    "company": "Gomez Consulting",
+    "email": "ivy.gomez@gomezconsulting.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L258",
+    "name": "Julian Murray",
+    "company": "Murray Designs",
+    "email": "julian.murray@murraydesigns.org",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L259",
+    "name": "Emery Freeman",
+    "company": "Freeman Systems",
+    "email": "emery.freeman@freemansystems.co",
+    "source": "Website",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "L260",
+    "name": "Miles Wells",
+    "company": "Wells Group",
+    "email": "miles.wells@wellsgroup.com",
+    "source": "Cold Call",
+    "score": 66,
+    "status": "new"
+  },
+  {
+    "id": "L261",
+    "name": "Sawyer Webb",
+    "company": "Webb Technologies",
+    "email": "sawyer.webb@webbtech.net",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L262",
+    "name": "Bella Simpson",
+    "company": "Simpson Solutions",
+    "email": "bella.simpson@simpsonsolutions.io",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L263",
+    "name": "Elias Stevens",
+    "company": "Stevens Innovations",
+    "email": "elias.stevens@stevensinnovations.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L264",
+    "name": "Ayla Tucker",
+    "company": "Tucker Tech",
+    "email": "ayla.tucker@tuckertech.org",
+    "source": "Referral",
+    "score": 80,
+    "status": "contacted"
+  },
+  {
+    "id": "L265",
+    "name": "Wyatt Porter",
+    "company": "Porter Consulting",
+    "email": "wyatt.porter@porterconsulting.co",
+    "source": "Website",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L266",
+    "name": "Eleanor Hunter",
+    "company": "Hunter Systems",
+    "email": "eleanor.hunter@huntersystems.com",
+    "source": "Cold Call",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "L267",
+    "name": "Hannah Hicks",
+    "company": "Hicks Labs",
+    "email": "hannah.hicks@hickslabs.net",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L268",
+    "name": "Carter Crawford",
+    "company": "Crawford Technologies",
+    "email": "carter.crawford@crawfordtech.io",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L269",
+    "name": "Luna Boyd",
+    "company": "Boyd Group",
+    "email": "luna.boyd@boydgroup.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L270",
+    "name": "Jack Mason",
+    "company": "Mason Solutions",
+    "email": "jack.mason@masonsolutions.org",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L271",
+    "name": "Aria Morales",
+    "company": "Morales Consulting",
+    "email": "aria.morales@moralesconsulting.co",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L272",
+    "name": "Luke Reynolds",
+    "company": "Reynolds Innovations",
+    "email": "luke.reynolds@reynoldsinnovations.com",
+    "source": "Cold Call",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": "L273",
+    "name": "Layla Olson",
+    "company": "Olson Designs",
+    "email": "layla.olson@olsondesigns.net",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L274",
+    "name": "Nathan Duncan",
+    "company": "Duncan Technologies",
+    "email": "nathan.duncan@duncantech.io",
+    "source": "Website",
+    "score": 74,
+    "status": "contacted"
+  },
+  {
+    "id": "L275",
+    "name": "Zoey Arnold",
+    "company": "Arnold Labs",
+    "email": "zoey.arnold@arnoldlabs.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L276",
+    "name": "Ryan Pierce",
+    "company": "Pierce Group",
+    "email": "ryan.pierce@piercegroup.org",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L277",
+    "name": "Penelope Hart",
+    "company": "Hart Consulting",
+    "email": "penelope.hart@hartconsulting.co",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L278",
+    "name": "Henry Cunningham",
+    "company": "Cunningham Systems",
+    "email": "henry.cunningham@cunninghamsystems.com",
+    "source": "Cold Call",
+    "score": 69,
+    "status": "new"
+  },
+  {
+    "id": "L279",
+    "name": "Stella Knight",
+    "company": "Knight Technologies",
+    "email": "stella.knight@knighttech.net",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L280",
+    "name": "Owen Bradley",
+    "company": "Bradley Solutions",
+    "email": "owen.bradley@bradleysolutions.io",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L281",
+    "name": "Nora Carroll",
+    "company": "Carroll Innovations",
+    "email": "nora.carroll@carrollinnovations.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L282",
+    "name": "Samuel Hudson",
+    "company": "Hudson Group",
+    "email": "samuel.hudson@hudsongroup.org",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L283",
+    "name": "Hazel Riley",
+    "company": "Riley Consulting",
+    "email": "hazel.riley@rileyconsulting.co",
+    "source": "Website",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "L284",
+    "name": "Dylan Burns",
+    "company": "Burns Systems",
+    "email": "dylan.burns@burnssystems.com",
+    "source": "Cold Call",
+    "score": 70,
+    "status": "new"
+  },
+  {
+    "id": "L285",
+    "name": "Violet Shaw",
+    "company": "Shaw Technologies",
+    "email": "violet.shaw@shawtech.net",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L286",
+    "name": "Leo Gordon",
+    "company": "Gordon Labs",
+    "email": "leo.gordon@gordonlabs.io",
+    "source": "Website",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "L287",
+    "name": "Aurora Wheeler",
+    "company": "Wheeler Innovations",
+    "email": "aurora.wheeler@wheelerinnovations.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L288",
+    "name": "Theo Lawson",
+    "company": "Lawson Solutions",
+    "email": "theo.lawson@lawsonsolutions.org",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L289",
+    "name": "Luna Fletcher",
+    "company": "Fletcher Group",
+    "email": "luna.fletcher@fletchergroup.co",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L290",
+    "name": "Max Daniels",
+    "company": "Daniels Consulting",
+    "email": "max.daniels@danielsconsulting.com",
+    "source": "Cold Call",
+    "score": 65,
+    "status": "new"
+  },
+  {
+    "id": "L291",
+    "name": "Riley Spencer",
+    "company": "Spencer Technologies",
+    "email": "riley.spencer@spencertech.net",
+    "source": "Trade Show",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L292",
+    "name": "Ellie Richards",
+    "company": "Richards Labs",
+    "email": "ellie.richards@richardslabs.io",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L293",
+    "name": "Caleb Hamilton",
+    "company": "Hamilton Innovations",
+    "email": "caleb.hamilton@hamiltoninnovations.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L294",
+    "name": "Nova Snyder",
+    "company": "Snyder Group",
+    "email": "nova.snyder@snydergroup.org",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L295",
+    "name": "Hudson Hart",
+    "company": "Hart Designs",
+    "email": "hudson.hart@hartdesigns.co",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L296",
+    "name": "Lydia Foster",
+    "company": "Foster Technologies",
+    "email": "lydia.foster@fostertech.com",
+    "source": "Cold Call",
+    "score": 66,
+    "status": "new"
+  },
+  {
+    "id": "L297",
+    "name": "Eli Greene",
+    "company": "Greene Solutions",
+    "email": "eli.greene@greenesolutions.net",
+    "source": "Trade Show",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": "L298",
+    "name": "Zara Wallace",
+    "company": "Wallace Innovations",
+    "email": "zara.wallace@wallaceinnovations.io",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L299",
+    "name": "Asher Sullivan",
+    "company": "Sullivan Group",
+    "email": "asher.sullivan@sullivangroup.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L300",
+    "name": "Levi Woods",
+    "company": "Woods Consulting",
+    "email": "levi.woods@woodsconsulting.org",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L301",
+    "name": "Willow Cole",
+    "company": "Cole Solutions",
+    "email": "willow.cole@colesolutions.co",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L302",
+    "name": "Jayden West",
+    "company": "West Technologies",
+    "email": "jayden.west@westtech.com",
+    "source": "Cold Call",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "L303",
+    "name": "Maya Jordan",
+    "company": "Jordan Innovations",
+    "email": "maya.jordan@jordaninnovations.net",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L304",
+    "name": "Gabriel Owens",
+    "company": "Owens Group",
+    "email": "gabriel.owens@owensgroup.io",
+    "source": "Website",
+    "score": 74,
+    "status": "contacted"
+  },
+  {
+    "id": "L305",
+    "name": "Ivy Reynolds",
+    "company": "Reynolds Designs",
+    "email": "ivy.reynolds@reynoldsdesigns.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L306",
+    "name": "Julian Fisher",
+    "company": "Fisher Technologies",
+    "email": "julian.fisher@fishertech.org",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L307",
+    "name": "Emery Ellis",
+    "company": "Ellis Solutions",
+    "email": "emery.ellis@ellissolutions.co",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L308",
+    "name": "Miles Harrison",
+    "company": "Harrison Consulting",
+    "email": "miles.harrison@harrisonconsulting.com",
+    "source": "Cold Call",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": "L309",
+    "name": "Sawyer Gibson",
+    "company": "Gibson Group",
+    "email": "sawyer.gibson@gibsongroup.net",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L310",
+    "name": "Bella Mcdonald",
+    "company": "Mcdonald Innovations",
+    "email": "bella.mcdonald@mcdonaldinnovations.io",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L311",
+    "name": "Elias Cruz",
+    "company": "Cruz Technologies",
+    "email": "elias.cruz@cruzetech.com",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "L312",
+    "name": "Ayla Marshall",
+    "company": "Marshall Solutions",
+    "email": "ayla.marshall@marshallsolutions.org",
+    "source": "Referral",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": "L313",
+    "name": "Wyatt Ortiz",
+    "company": "Ortiz Consulting",
+    "email": "wyatt.ortiz@ortizconsulting.co",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L314",
+    "name": "Eleanor Gomez",
+    "company": "Gomez Group",
+    "email": "eleanor.gomez@gomezgroup.com",
+    "source": "Cold Call",
+    "score": 69,
+    "status": "new"
+  },
+  {
+    "id": "L315",
+    "name": "Hannah Murray",
+    "company": "Murray Innovations",
+    "email": "hannah.murray@murrayinnovations.net",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L316",
+    "name": "Carter Freeman",
+    "company": "Freeman Technologies",
+    "email": "carter.freeman@freemantech.io",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L317",
+    "name": "Luna Wells",
+    "company": "Wells Solutions",
+    "email": "luna.wells@wellssolutions.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L318",
+    "name": "Jack Webb",
+    "company": "Webb Consulting",
+    "email": "jack.webb@webbconsulting.org",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L319",
+    "name": "Aria Simpson",
+    "company": "Simpson Group",
+    "email": "aria.simpson@simpsongroup.co",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L320",
+    "name": "Luke Stevens",
+    "company": "Stevens Solutions",
+    "email": "luke.stevens@stevenssolutions.com",
+    "source": "Cold Call",
+    "score": 70,
+    "status": "new"
+  },
+  {
+    "id": "L321",
+    "name": "Layla Tucker",
+    "company": "Tucker Innovations",
+    "email": "layla.tucker@tuckerinnovations.net",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L322",
+    "name": "Nathan Porter",
+    "company": "Porter Technologies",
+    "email": "nathan.porter@portertech.io",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L323",
+    "name": "Zoey Hunter",
+    "company": "Hunter Consulting",
+    "email": "zoey.hunter@hunterconsulting.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L324",
+    "name": "Ryan Hicks",
+    "company": "Hicks Solutions",
+    "email": "ryan.hicks@hickssolutions.org",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L325",
+    "name": "Penelope Crawford",
+    "company": "Crawford Group",
+    "email": "penelope.crawford@crawfordgroup.co",
+    "source": "Website",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "L326",
+    "name": "Henry Boyd",
+    "company": "Boyd Technologies",
+    "email": "henry.boyd@boydtech.com",
+    "source": "Cold Call",
+    "score": 66,
+    "status": "new"
+  },
+  {
+    "id": "L327",
+    "name": "Stella Mason",
+    "company": "Mason Consulting",
+    "email": "stella.mason@masonconsulting.net",
+    "source": "Trade Show",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": "L328",
+    "name": "Owen Morales",
+    "company": "Morales Systems",
+    "email": "owen.morales@moralessystems.io",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L329",
+    "name": "Nora Reynolds",
+    "company": "Reynolds Innovations",
+    "email": "nora.reynolds@reynoldsinnovations.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L330",
+    "name": "Samuel Olson",
+    "company": "Olson Solutions",
+    "email": "samuel.olson@olsonsolutions.org",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L331",
+    "name": "Hazel Duncan",
+    "company": "Duncan Consulting",
+    "email": "hazel.duncan@duncanconsulting.co",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L332",
+    "name": "Dylan Arnold",
+    "company": "Arnold Technologies",
+    "email": "dylan.arnold@arnoldtech.com",
+    "source": "Cold Call",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "L333",
+    "name": "Violet Pierce",
+    "company": "Pierce Labs",
+    "email": "violet.pierce@piercelabs.net",
+    "source": "Trade Show",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L334",
+    "name": "Leo Hart",
+    "company": "Hart Group",
+    "email": "leo.hart@hartgroup.io",
+    "source": "Website",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "L335",
+    "name": "Aurora Cunningham",
+    "company": "Cunningham Designs",
+    "email": "aurora.cunningham@cunninghamdesigns.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L336",
+    "name": "Theo Knight",
+    "company": "Knight Solutions",
+    "email": "theo.knight@knightsolutions.org",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L337",
+    "name": "Luna Bradley",
+    "company": "Bradley Technologies",
+    "email": "luna.bradley@bradleytech.co",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L338",
+    "name": "Max Carroll",
+    "company": "Carroll Consulting",
+    "email": "max.carroll@carrollconsulting.com",
+    "source": "Cold Call",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": "L339",
+    "name": "Riley Hudson",
+    "company": "Hudson Innovations",
+    "email": "riley.hudson@hudsoninnovations.net",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L340",
+    "name": "Ellie Riley",
+    "company": "Riley Systems",
+    "email": "ellie.riley@rileysystems.io",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L341",
+    "name": "Caleb Burns",
+    "company": "Burns Consulting",
+    "email": "caleb.burns@burnsconsulting.com",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "L342",
+    "name": "Nova Shaw",
+    "company": "Shaw Designs",
+    "email": "nova.shaw@shawdesigns.org",
+    "source": "Referral",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": "L3431",
+    "name": "Hudson Gordon",
+    "company": "Gordon Group",
+    "email": "hudson.gordon@gordongroup.co",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L3432",
+    "name": "Hudson Gordon",
+    "company": "Gordon Group",
+    "email": "hudson.gordon@gordongroup.co",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L344",
+    "name": "Lydia Wheeler",
+    "company": "Wheeler Solutions",
+    "email": "lydia.wheeler@wheelersolutions.com",
+    "source": "Cold Call",
+    "score": 69,
+    "status": "new"
+  },
+  {
+    "id": "L345",
+    "name": "Eli Lawson",
+    "company": "Lawson Technologies",
+    "email": "eli.lawson@lawsonttech.net",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L346",
+    "name": "Zara Fletcher",
+    "company": "Fletcher Innovations",
+    "email": "zara.fletcher@fletcherinnovations.io",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L347",
+    "name": "Asher Daniels",
+    "company": "Daniels Solutions",
+    "email": "asher.daniels@danielssolutions.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L348",
+    "name": "Levi Spencer",
+    "company": "Spencer Consulting",
+    "email": "levi.spencer@spencerconsulting.org",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L349",
+    "name": "Willow Richards",
+    "company": "Richards Technologies",
+    "email": "willow.richards@richardstech.co",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L350",
+    "name": "Jayden Hamilton",
+    "company": "Hamilton Labs",
+    "email": "jayden.hamilton@hamiltonlabs.com",
+    "source": "Cold Call",
+    "score": 70,
+    "status": "new"
+  },
+  {
+    "id": "L351",
+    "name": "Maya Snyder",
+    "company": "Snyder Innovations",
+    "email": "maya.snyder@snyderinnovations.net",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L352",
+    "name": "Gabriel Hart",
+    "company": "Hart Consulting",
+    "email": "gabriel.hart@hartconsulting.io",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L353",
+    "name": "Ivy Foster",
+    "company": "Foster Solutions",
+    "email": "ivy.foster@fostersolutions.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L354",
+    "name": "Julian Greene",
+    "company": "Greene Group",
+    "email": "julian.greene@greenegroup.org",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L355",
+    "name": "Emery Wallace",
+    "company": "Wallace Technologies",
+    "email": "emery.wallace@wallacetech.co",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L356",
+    "name": "Miles Sullivan",
+    "company": "Sullivan Solutions",
+    "email": "miles.sullivan@sullivansolutions.com",
+    "source": "Cold Call",
+    "score": 66,
+    "status": "new"
+  },
+  {
+    "id": "L357",
+    "name": "Sawyer Woods",
+    "company": "Woods Innovations",
+    "email": "sawyer.woods@woodsinnovations.net",
+    "source": "Trade Show",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": "L358",
+    "name": "Bella Cole",
+    "company": "Cole Consulting",
+    "email": "bella.cole@coleconsulting.io",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L359",
+    "name": "Elias West",
+    "company": "West Group",
+    "email": "elias.west@westgroup.com",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "L360",
+    "name": "Ayla Jordan",
+    "company": "Jordan Solutions",
+    "email": "ayla.jordan@jordansolutions.org",
+    "source": "Referral",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": "L361",
+    "name": "Wyatt Owens",
+    "company": "Owens Technologies",
+    "email": "wyatt.owens@owenstech.co",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L362",
+    "name": "Eleanor Reynolds",
+    "company": "Reynolds Consulting",
+    "email": "eleanor.reynolds@reynoldsconsulting.com",
+    "source": "Cold Call",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "L363",
+    "name": "Hannah Fisher",
+    "company": "Fisher Solutions",
+    "email": "hannah.fisher@fishersolutions.net",
+    "source": "Trade Show",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L364",
+    "name": "Carter Ellis",
+    "company": "Ellis Group",
+    "email": "carter.ellis@ellisgroup.io",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L365",
+    "name": "Luna Harrison",
+    "company": "Harrison Innovations",
+    "email": "luna.harrison@harrisoninnovations.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L366",
+    "name": "Jack Gibson",
+    "company": "Gibson Consulting",
+    "email": "jack.gibson@gibsonconsulting.org",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L367",
+    "name": "Aria Mcdonald",
+    "company": "Mcdonald Technologies",
+    "email": "aria.mcdonald@mcdonaldtech.co",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L368",
+    "name": "Luke Cruz",
+    "company": "Cruz Solutions",
+    "email": "luke.cruz@cruzsolutions.com",
+    "source": "Cold Call",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": "L369",
+    "name": "Layla Marshall",
+    "company": "Marshall Group",
+    "email": "layla.marshall@marshallgroup.net",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L370",
+    "name": "Nathan Ortiz",
+    "company": "Ortiz Innovations",
+    "email": "nathan.ortiz@ortizinnovations.io",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L371",
+    "name": "Zoey Gomez",
+    "company": "Gomez Consulting",
+    "email": "zoey.gomez@gomezconsulting.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L372",
+    "name": "Ryan Murray",
+    "company": "Murray Solutions",
+    "email": "ryan.murray@murraysolutions.org",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L373",
+    "name": "Penelope Freeman",
+    "company": "Freeman Group",
+    "email": "penelope.freeman@freemangroup.co",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L374",
+    "name": "Henry Wells",
+    "company": "Wells Technologies",
+    "email": "henry.wells@wellstech.com",
+    "source": "Cold Call",
+    "score": 69,
+    "status": "new"
+  },
+  {
+    "id": "L375",
+    "name": "Stella Webb",
+    "company": "Webb Innovations",
+    "email": "stella.webb@webbinnovations.net",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L376",
+    "name": "Owen Simpson",
+    "company": "Simpson Consulting",
+    "email": "owen.simpson@simpsonconsulting.io",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L377",
+    "name": "Nora Stevens",
+    "company": "Stevens Group",
+    "email": "nora.stevens@stevensgroup.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L378",
+    "name": "Samuel Tucker",
+    "company": "Tucker Solutions",
+    "email": "samuel.tucker@tuckersolutions.org",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L379",
+    "name": "Hazel Porter",
+    "company": "Porter Group",
+    "email": "hazel.porter@portergroup.co",
+    "source": "Website",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "L380",
+    "name": "Dylan Hunter",
+    "company": "Hunter Technologies",
+    "email": "dylan.hunter@huntertech.com",
+    "source": "Cold Call",
+    "score": 70,
+    "status": "new"
+  },
+  {
+    "id": "L381",
+    "name": "Violet Hicks",
+    "company": "Hicks Innovations",
+    "email": "violet.hicks@hicksinnovations.net",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L382",
+    "name": "Leo Crawford",
+    "company": "Crawford Solutions",
+    "email": "leo.crawford@crawfordsolutions.io",
+    "source": "Website",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "L383",
+    "name": "Aurora Boyd",
+    "company": "Boyd Consulting",
+    "email": "aurora.boyd@boydconsulting.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L384",
+    "name": "Theo Mason",
+    "company": "Mason Technologies",
+    "email": "theo.mason@masonttech.org",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L385",
+    "name": "Luna Morales",
+    "company": "Morales Group",
+    "email": "luna.morales@moralesgroup.co",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L386",
+    "name": "Max Reynolds",
+    "company": "Reynolds Solutions",
+    "email": "max.reynolds@reynoldssolutions.com",
+    "source": "Cold Call",
+    "score": 65,
+    "status": "new"
+  },
+  {
+    "id": "L387",
+    "name": "Riley Olson",
+    "company": "Olson Innovations",
+    "email": "riley.olson@olsoninnovations.net",
+    "source": "Trade Show",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L388",
+    "name": "Ellie Duncan",
+    "company": "Duncan Technologies",
+    "email": "ellie.duncan@duncantech.io",
+    "source": "Website",
+    "score": 74,
+    "status": "contacted"
+  },
+  {
+    "id": "L389",
+    "name": "Caleb Arnold",
+    "company": "Arnold Solutions",
+    "email": "caleb.arnold@arnoldsolutions.com",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "L390",
+    "name": "Nova Pierce",
+    "company": "Pierce Consulting",
+    "email": "nova.pierce@pierceconsulting.org",
+    "source": "Referral",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": "L391",
+    "name": "Hudson Hart",
+    "company": "Hart Group",
+    "email": "hudson.hart@hartgroup.co",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L392",
+    "name": "Lydia Cunningham",
+    "company": "Cunningham Technologies",
+    "email": "lydia.cunningham@cunninghamtech.com",
+    "source": "Cold Call",
+    "score": 66,
+    "status": "new"
+  },
+  {
+    "id": "L393",
+    "name": "Eli Knight",
+    "company": "Knight Innovations",
+    "email": "eli.knight@knightinnovations.net",
+    "source": "Trade Show",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": "L394",
+    "name": "Zara Bradley",
+    "company": "Bradley Solutions",
+    "email": "zara.bradley@bradleysolutions.io",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L395",
+    "name": "Asher Carroll",
+    "company": "Carroll Group",
+    "email": "asher.carroll@carrollgroup.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L396",
+    "name": "Levi Hudson",
+    "company": "Hudson Consulting",
+    "email": "levi.hudson@hudsonconsulting.org",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L397",
+    "name": "Willow Riley",
+    "company": "Riley Technologies",
+    "email": "willow.riley@rileytech.co",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L398",
+    "name": "Jayden Burns",
+    "company": "Burns Innovations",
+    "email": "jayden.burns@burnsinnovations.com",
+    "source": "Cold Call",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "L399",
+    "name": "Maya Shaw",
+    "company": "Shaw Solutions",
+    "email": "maya.shaw@shawsolutions.net",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L400",
+    "name": "Gabriel Gordon",
+    "company": "Gordon Consulting",
+    "email": "gabriel.gordon@gordonconsulting.io",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L401",
+    "name": "Ivy Wheeler",
+    "company": "Wheeler Technologies",
+    "email": "ivy.wheeler@wheelertech.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L402",
+    "name": "Julian Lawson",
+    "company": "Lawson Group",
+    "email": "julian.lawson@lawsongroup.org",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L403",
+    "name": "Emery Fletcher",
+    "company": "Fletcher Solutions",
+    "email": "emery.fletcher@fletchersolutions.co",
+    "source": "Website",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "L404",
+    "name": "Miles Daniels",
+    "company": "Daniels Technologies",
+    "email": "miles.daniels@danielstech.com",
+    "source": "Cold Call",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": "L405",
+    "name": "Sawyer Spencer",
+    "company": "Spencer Innovations",
+    "email": "sawyer.spencer@spencerinnovations.net",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L406",
+    "name": "Bella Richards",
+    "company": "Richards Consulting",
+    "email": "bella.richards@richardsconsulting.io",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L407",
+    "name": "Elias Hamilton",
+    "company": "Hamilton Solutions",
+    "email": "elias.hamilton@hamiltonsolutions.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L408",
+    "name": "Ayla Snyder",
+    "company": "Snyder Group",
+    "email": "ayla.snyder@snydergroup.org",
+    "source": "Referral",
+    "score": 80,
+    "status": "contacted"
+  },
+  {
+    "id": "L409",
+    "name": "Wyatt Hart",
+    "company": "Hart Technologies",
+    "email": "wyatt.hart@harttech.co",
+    "source": "Website",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L410",
+    "name": "Eleanor Foster",
+    "company": "Foster Consulting",
+    "email": "eleanor.foster@fosterconsulting.com",
+    "source": "Cold Call",
+    "score": 69,
+    "status": "new"
+  },
+  {
+    "id": "L411",
+    "name": "Hannah Greene",
+    "company": "Greene Innovations",
+    "email": "hannah.greene@greeneinnovations.net",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L412",
+    "name": "Carter Wallace",
+    "company": "Wallace Solutions",
+    "email": "carter.wallace@wallacesolutions.io",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L413",
+    "name": "Luna Sullivan",
+    "company": "Sullivan Group",
+    "email": "luna.sullivan@sullivangroup.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L414",
+    "name": "Jack Woods",
+    "company": "Woods Technologies",
+    "email": "jack.woods@woodstech.org",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L415",
+    "name": "Aria Cole",
+    "company": "Cole Innovations",
+    "email": "aria.cole@coleinnovations.co",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L416",
+    "name": "Luke West",
+    "company": "West Consulting",
+    "email": "luke.west@westconsulting.com",
+    "source": "Cold Call",
+    "score": 70,
+    "status": "new"
+  },
+  {
+    "id": "L417",
+    "name": "Layla Jordan",
+    "company": "Jordan Group",
+    "email": "layla.jordan@jordangroup.net",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L418",
+    "name": "Nathan Owens",
+    "company": "Owens Solutions",
+    "email": "nathan.owens@owenssolutions.io",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L419",
+    "name": "Zoey Reynolds",
+    "company": "Reynolds Technologies",
+    "email": "zoey.reynolds@reynoldstech.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L420",
+    "name": "Ryan Fisher",
+    "company": "Fisher Consulting",
+    "email": "ryan.fisher@fisherconsulting.org",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L421",
+    "name": "Penelope Ellis",
+    "company": "Ellis Innovations",
+    "email": "penelope.ellis@ellisinnovations.co",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L422",
+    "name": "Henry Harrison",
+    "company": "Harrison Group",
+    "email": "henry.harrison@harrisongroup.com",
+    "source": "Cold Call",
+    "score": 66,
+    "status": "new"
+  },
+  {
+    "id": "L423",
+    "name": "Stella Gibson",
+    "company": "Gibson Solutions",
+    "email": "stella.gibson@gibsonsolutions.net",
+    "source": "Trade Show",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": "L424",
+    "name": "Owen Mcdonald",
+    "company": "Mcdonald Consulting",
+    "email": "owen.mcdonald@mcdonaldconsulting.io",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L425",
+    "name": "Nora Cruz",
+    "company": "Cruz Technologies",
+    "email": "nora.cruz@cruzetech.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L426",
+    "name": "Samuel Marshall",
+    "company": "Marshall Solutions",
+    "email": "samuel.marshall@marshallsolutions.org",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L427",
+    "name": "Hazel Ortiz",
+    "company": "Ortiz Group",
+    "email": "hazel.ortiz@ortizgroup.co",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L428",
+    "name": "Dylan Gomez",
+    "company": "Gomez Innovations",
+    "email": "dylan.gomez@gomezinnovations.com",
+    "source": "Cold Call",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "L429",
+    "name": "Violet Murray",
+    "company": "Murray Consulting",
+    "email": "violet.murray@murrayconsulting.net",
+    "source": "Trade Show",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L430",
+    "name": "Leo Freeman",
+    "company": "Freeman Solutions",
+    "email": "leo.freeman@freemansolutions.io",
+    "source": "Website",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "L431",
+    "name": "Aurora Wells",
+    "company": "Wells Group",
+    "email": "aurora.wells@wellsgroup.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L432",
+    "name": "Theo Webb",
+    "company": "Webb Technologies",
+    "email": "theo.webb@webbtech.org",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L433",
+    "name": "Luna Simpson",
+    "company": "Simpson Innovations",
+    "email": "luna.simpson@simpsoninnovations.co",
+    "source": "Website",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "L434",
+    "name": "Max Stevens",
+    "company": "Stevens Consulting",
+    "email": "max.stevens@stevensconsulting.com",
+    "source": "Cold Call",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": "L435",
+    "name": "Riley Tucker",
+    "company": "Tucker Group",
+    "email": "riley.tucker@tuckergroup.net",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L436",
+    "name": "Ellie Porter",
+    "company": "Porter Solutions",
+    "email": "ellie.porter@portersolutions.io",
+    "source": "Website",
+    "score": 74,
+    "status": "contacted"
+  },
+  {
+    "id": "L437",
+    "name": "Caleb Hunter",
+    "company": "Hunter Labs",
+    "email": "caleb.hunter@hunterlabs.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L438",
+    "name": "Nova Hicks",
+    "company": "Hicks Technologies",
+    "email": "nova.hicks@hickstech.org",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L439",
+    "name": "Hudson Crawford",
+    "company": "Crawford Innovations",
+    "email": "hudson.crawford@crawfordinnovations.co",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L440",
+    "name": "Lydia Boyd",
+    "company": "Boyd Group",
+    "email": "lydia.boyd@boydgroup.com",
+    "source": "Cold Call",
+    "score": 69,
+    "status": "new"
+  },
+  {
+    "id": "L441",
+    "name": "Eli Mason",
+    "company": "Mason Solutions",
+    "email": "eli.mason@masonsolutions.net",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L442",
+    "name": "Zara Morales",
+    "company": "Morales Consulting",
+    "email": "zara.morales@moralesconsulting.io",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L443",
+    "name": "Asher Reynolds",
+    "company": "Reynolds Group",
+    "email": "asher.reynolds@reynoldsgroup.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L444",
+    "name": "Levi Olson",
+    "company": "Olson Technologies",
+    "email": "levi.olson@olsentech.org",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L445",
+    "name": "Willow Duncan",
+    "company": "Duncan Solutions",
+    "email": "willow.duncan@duncansolutions.co",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L446",
+    "name": "Jayden Arnold",
+    "company": "Arnold Consulting",
+    "email": "jayden.arnold@arnoldconsulting.com",
+    "source": "Cold Call",
+    "score": 70,
+    "status": "new"
+  },
+  {
+    "id": "L447",
+    "name": "Maya Pierce",
+    "company": "Pierce Technologies",
+    "email": "maya.pierce@piercetech.net",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L448",
+    "name": "Gabriel Hart",
+    "company": "Hart Innovations",
+    "email": "gabriel.hart@hartinnovations.io",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L449",
+    "name": "Ivy Cunningham",
+    "company": "Cunningham Group",
+    "email": "ivy.cunningham@cunninghamgroup.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L450",
+    "name": "Julian Knight",
+    "company": "Knight Solutions",
+    "email": "julian.knight@knightsolutions.org",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L451",
+    "name": "Emery Bradley",
+    "company": "Bradley Technologies",
+    "email": "emery.bradley@bradleytech.co",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L452",
+    "name": "Miles Carroll",
+    "company": "Carroll Innovations",
+    "email": "miles.carroll@carrollinnovations.com",
+    "source": "Cold Call",
+    "score": 65,
+    "status": "new"
+  },
+  {
+    "id": "L453",
+    "name": "Sawyer Hudson",
+    "company": "Hudson Solutions",
+    "email": "sawyer.hudson@hudsonsolutions.net",
+    "source": "Trade Show",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L454",
+    "name": "Bella Riley",
+    "company": "Riley Consulting",
+    "email": "bella.riley@rileyconsulting.io",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L455",
+    "name": "Elias Burns",
+    "company": "Burns Group",
+    "email": "elias.burns@burnsgroup.com",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "new"
+  },
+  {
+    "id": "L456",
+    "name": "Ayla Shaw",
+    "company": "Shaw Technologies",
+    "email": "ayla.shaw@shawtech.org",
+    "source": "Referral",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": "L457",
+    "name": "Wyatt Gordon",
+    "company": "Gordon Solutions",
+    "email": "wyatt.gordon@gordonsolutions.co",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L458",
+    "name": "Eleanor Wheeler",
+    "company": "Wheeler Group",
+    "email": "eleanor.wheeler@wheelergroup.com",
+    "source": "Cold Call",
+    "score": 66,
+    "status": "new"
+  },
+  {
+    "id": "L459",
+    "name": "Hannah Lawson",
+    "company": "Lawson Innovations",
+    "email": "hannah.lawson@lawsoninnovations.net",
+    "source": "Trade Show",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": "L460",
+    "name": "Carter Fletcher",
+    "company": "Fletcher Consulting",
+    "email": "carter.fletcher@fletcherconsulting.io",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L461",
+    "name": "Luna Daniels",
+    "company": "Daniels Solutions",
+    "email": "luna.daniels@danielssolutions.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L462",
+    "name": "Jack Spencer",
+    "company": "Spencer Group",
+    "email": "jack.spencer@spencergroup.org",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L463",
+    "name": "Aria Richards",
+    "company": "Richards Technologies",
+    "email": "aria.richards@richardstech.co",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L464",
+    "name": "Luke Hamilton",
+    "company": "Hamilton Innovations",
+    "email": "luke.hamilton@hamiltoninnovations.com",
+    "source": "Cold Call",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "L465",
+    "name": "Layla Snyder",
+    "company": "Snyder Consulting",
+    "email": "layla.snyder@snyderconsulting.net",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L466",
+    "name": "Nathan Hart",
+    "company": "Hart Solutions",
+    "email": "nathan.hart@hartsolutions.io",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L467",
+    "name": "Zoey Foster",
+    "company": "Foster Technologies",
+    "email": "zoey.foster@fostertech.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L468",
+    "name": "Ryan Greene",
+    "company": "Greene Group",
+    "email": "ryan.greene@greenegroup.org",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L469",
+    "name": "Penelope Wallace",
+    "company": "Wallace Innovations",
+    "email": "penelope.wallace@wallaceinnovations.co",
+    "source": "Website",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "L470",
+    "name": "Henry Sullivan",
+    "company": "Sullivan Technologies",
+    "email": "henry.sullivan@sullivantech.com",
+    "source": "Cold Call",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": "L471",
+    "name": "Stella Woods",
+    "company": "Woods Solutions",
+    "email": "stella.woods@woodssolutions.net",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L472",
+    "name": "Owen Cole",
+    "company": "Cole Technologies",
+    "email": "owen.cole@coletech.io",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L473",
+    "name": "Nora West",
+    "company": "West Innovations",
+    "email": "nora.west@westinnovations.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L474",
+    "name": "Samuel Jordan",
+    "company": "Jordan Consulting",
+    "email": "samuel.jordan@jordanconsulting.org",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L475",
+    "name": "Hazel Owens",
+    "company": "Owens Group",
+    "email": "hazel.owens@owensgroup.co",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L476",
+    "name": "Dylan Reynolds",
+    "company": "Reynolds Labs",
+    "email": "dylan.reynolds@reynoldslabs.com",
+    "source": "Cold Call",
+    "score": 69,
+    "status": "new"
+  },
+  {
+    "id": "L477",
+    "name": "Violet Fisher",
+    "company": "Fisher Technologies",
+    "email": "violet.fisher@fishertech.net",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L478",
+    "name": "Leo Ellis",
+    "company": "Ellis Consulting",
+    "email": "leo.ellis@ellisconsulting.io",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L479",
+    "name": "Aurora Harrison",
+    "company": "Harrison Solutions",
+    "email": "aurora.harrison@harrisonsolutions.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L480",
+    "name": "Theo Gibson",
+    "company": "Gibson Innovations",
+    "email": "theo.gibson@gibsoninnovations.org",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L481",
+    "name": "Luna Mcdonald",
+    "company": "Mcdonald Group",
+    "email": "luna.mcdonald@mcdonaldgroup.co",
+    "source": "Website",
+    "score": 90,
+    "status": "qualified"
+  },
+  {
+    "id": "L482",
+    "name": "Max Cruz",
+    "company": "Cruz Consulting",
+    "email": "max.cruz@cruzconsulting.com",
+    "source": "Cold Call",
+    "score": 70,
+    "status": "new"
+  },
+  {
+    "id": "L483",
+    "name": "Riley Marshall",
+    "company": "Marshall Technologies",
+    "email": "riley.marshall@marshalltech.net",
+    "source": "Trade Show",
+    "score": 92,
+    "status": "qualified"
+  },
+  {
+    "id": "L484",
+    "name": "Ellie Ortiz",
+    "company": "Ortiz Solutions",
+    "email": "ellie.ortiz@ortizsolutions.io",
+    "source": "Website",
+    "score": 77,
+    "status": "contacted"
+  },
+  {
+    "id": "L485",
+    "name": "Caleb Gomez",
+    "company": "Gomez Group",
+    "email": "caleb.gomez@gomezgroup.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L486",
+    "name": "Nova Murray",
+    "company": "Murray Innovations",
+    "email": "nova.murray@murrayinnovations.org",
+    "source": "Referral",
+    "score": 83,
+    "status": "contacted"
+  },
+  {
+    "id": "L487",
+    "name": "Hudson Freeman",
+    "company": "Freeman Consulting",
+    "email": "hudson.freeman@freemanconsulting.co",
+    "source": "Website",
+    "score": 89,
+    "status": "qualified"
+  },
+  {
+    "id": "L488",
+    "name": "Lydia Wells",
+    "company": "Wells Solutions",
+    "email": "lydia.wells@wellssolutions.com",
+    "source": "Cold Call",
+    "score": 66,
+    "status": "new"
+  },
+  {
+    "id": "L489",
+    "name": "Eli Webb",
+    "company": "Webb Group",
+    "email": "eli.webb@webbgroup.net",
+    "source": "Trade Show",
+    "score": 95,
+    "status": "qualified"
+  },
+  {
+    "id": "L490",
+    "name": "Zara Simpson",
+    "company": "Simpson Technologies",
+    "email": "zara.simpson@simpsontech.io",
+    "source": "Website",
+    "score": 75,
+    "status": "contacted"
+  },
+  {
+    "id": "L491",
+    "name": "Asher Stevens",
+    "company": "Stevens Innovations",
+    "email": "asher.stevens@stevensinnovations.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "new"
+  },
+  {
+    "id": "L492",
+    "name": "Levi Tucker",
+    "company": "Tucker Consulting",
+    "email": "levi.tucker@tuckerconsulting.org",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
+  },
+  {
+    "id": "L493",
+    "name": "Willow Porter",
+    "company": "Porter Group",
+    "email": "willow.porter@portergroup.co",
+    "source": "Website",
+    "score": 88,
+    "status": "qualified"
+  },
+  {
+    "id": "L494",
+    "name": "Jayden Hunter",
+    "company": "Hunter Solutions",
+    "email": "jayden.hunter@huntersolutions.com",
+    "source": "Cold Call",
+    "score": 67,
+    "status": "new"
+  },
+  {
+    "id": "L495",
+    "name": "Maya Hicks",
+    "company": "Hicks Group",
+    "email": "maya.hicks@hicksgroup.net",
+    "source": "Trade Show",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L496",
+    "name": "Gabriel Crawford",
+    "company": "Crawford Technologies",
+    "email": "gabriel.crawford@crawfordtech.io",
+    "source": "Website",
+    "score": 78,
+    "status": "contacted"
+  },
+  {
+    "id": "L497",
+    "name": "Ivy Boyd",
+    "company": "Boyd Consulting",
+    "email": "ivy.boyd@boydconsulting.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L498",
+    "name": "Julian Mason",
+    "company": "Mason Group",
+    "email": "julian.mason@masongroup.org",
+    "source": "Referral",
+    "score": 84,
+    "status": "contacted"
+  },
+  {
+    "id": "L499",
+    "name": "Emery Morales",
+    "company": "Morales Technologies",
+    "email": "emery.morales@moralestech.co",
+    "source": "Website",
+    "score": 87,
+    "status": "qualified"
+  },
+  {
+    "id": "L500",
+    "name": "Miles Reynolds",
+    "company": "Reynolds Consulting",
+    "email": "miles.reynolds@reynoldsconsulting.com",
+    "source": "Cold Call",
+    "score": 68,
+    "status": "new"
+  },
+  {
+    "id": "L501",
+    "name": "Sawyer Olson",
+    "company": "Olson Solutions",
+    "email": "sawyer.olson@olsonsolutions.net",
+    "source": "Trade Show",
+    "score": 93,
+    "status": "qualified"
+  },
+  {
+    "id": "L502",
+    "name": "Bella Duncan",
+    "company": "Duncan Group",
+    "email": "bella.duncan@duncangroup.io",
+    "source": "Website",
+    "score": 74,
+    "status": "contacted"
+  },
+  {
+    "id": "L503",
+    "name": "Elias Arnold",
+    "company": "Arnold Technologies",
+    "email": "elias.arnold@arnoldtech.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "new"
+  },
+  {
+    "id": "L504",
+    "name": "Ayla Pierce",
+    "company": "Pierce Consulting",
+    "email": "ayla.pierce@pierceconsulting.org",
+    "source": "Referral",
+    "score": 81,
+    "status": "contacted"
+  },
+  {
+    "id": "L505",
+    "name": "Wyatt Hart",
+    "company": "Hart Labs",
+    "email": "wyatt.hart@hartlabs.co",
+    "source": "Website",
+    "score": 91,
+    "status": "qualified"
+  },
+  {
+    "id": "L506",
+    "name": "Eleanor Cunningham",
+    "company": "Cunningham Solutions",
+    "email": "eleanor.cunningham@cunninghamsolutions.com",
+    "source": "Cold Call",
+    "score": 69,
+    "status": "new"
+  },
+  {
+    "id": "L507",
+    "name": "Hannah Knight",
+    "company": "Knight Group",
+    "email": "hannah.knight@knightgroup.net",
+    "source": "Trade Show",
+    "score": 94,
+    "status": "qualified"
+  },
+  {
+    "id": "L508",
+    "name": "Carter Bradley",
+    "company": "Bradley Consulting",
+    "email": "carter.bradley@bradleyconsulting.io",
+    "source": "Website",
+    "score": 76,
+    "status": "contacted"
+  },
+  {
+    "id": "L509",
+    "name": "Luna Carroll",
+    "company": "Carroll Technologies",
+    "email": "luna.carroll@carrolltech.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "new"
+  },
+  {
+    "id": "L510",
+    "name": "Jack Hudson",
+    "company": "Hudson Innovations",
+    "email": "jack.hudson@hudsoninnovations.org",
+    "source": "Referral",
+    "score": 82,
+    "status": "contacted"
   }
 ]
