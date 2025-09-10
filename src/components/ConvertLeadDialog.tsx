@@ -149,7 +149,7 @@ const ConvertLeadDialog = () => {
                   >
                     {convertLeadToOpportunityConfig?.isLoading
                       ? "Converting..."
-                      : "Convert to Opportunity"}
+                      : "Convert Lead"}
                   </button>
                 </div>
               </form>
