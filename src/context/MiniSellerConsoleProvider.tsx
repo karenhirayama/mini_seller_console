@@ -99,8 +99,10 @@ export const MiniSellerConsoleProvider = ({
   };
 
   const handleUpdateLead = async (leadId: string, updates: Partial<Lead>) => {
-    setPanelConfig((prev) => (prev ? { ...prev, isLoading: true } : null));
+    if (panelConfig?.isLoading) return;
+
     if (selectedLead?.id === leadId) {
+      setPanelConfig((prev) => (prev ? { ...prev, isLoading: true } : null));
       await new Promise((resolve) => setTimeout(resolve, 1500));
       setSelectedLead((prev) => (prev ? { ...prev, ...updates } : null));
 
@@ -116,6 +118,8 @@ export const MiniSellerConsoleProvider = ({
       );
       setPanelConfig((prev) => (prev ? { ...prev, isLoading: false } : null));
       success("Lead updated successfully");
+    } else {
+      error("Selected lead has changed. Please try again.");
     }
   };
 
@@ -131,6 +135,8 @@ export const MiniSellerConsoleProvider = ({
   };
 
   const handleCreateOpportunity = async (newOpportunity: Opportunity) => {
+    if (convertLeadToOpportunityConfig?.isLoading) return;
+
     setConvertLeadToOpportunityConfig((prev) =>
       prev ? { ...prev, isLoading: true } : null
     );

@@ -91,7 +91,8 @@ const LeadDetailPanel = () => {
                               email: e.target.value,
                             })
                           }
-                          className="mt-1 block w-full border border-gray-300 rounded-md shadow-sm p-2"
+                          disabled={panelConfig?.isLoading}
+                          className="mt-1 block w-full border border-gray-300 rounded-md shadow-sm p-2 disabled:bg-gray-100 focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm"
                         />
                         {emailError && (
                           <p className="mt-1 text-sm text-red-600">
@@ -137,7 +138,8 @@ const LeadDetailPanel = () => {
                             status: e.target.value as LeadStatus,
                           })
                         }
-                        className="mt-1 block w-full pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm rounded-md"
+                        disabled={panelConfig?.isLoading}
+                        className="mt-1 block w-full pl-3 pr-10 py-2 text-base border-gray-300 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 sm:text-sm rounded-md disabled:bg-gray-100"
                       >
                         <option value="new">New</option>
                         <option value="contacted">Contacted</option>
@@ -183,8 +185,9 @@ const LeadDetailPanel = () => {
                     <>
                       <button
                         type="button"
-                        className="bg-white py-2 px-4 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500"
+                        className="bg-white py-2 px-4 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 disabled:bg-gray-100"
                         onClick={onCancelEdit}
+                        disabled={panelConfig?.isLoading}
                       >
                         Cancel
                       </button>
