@@ -1,6 +1,7 @@
 export type SortField = "name" | "company" | "score" | "status"
 export type SortDirection = "asc" | "desc"
 export type LeadStatus = "new" | "contacted" | "qualified" | "lost"
+export type StageOpportunity = "Closed Won" | "Closed Lost" | "Prospecting" | "Qualification" | "Proposal" | "Negotiation"
 
 export interface Lead {
   id: string
@@ -15,8 +16,8 @@ export interface Lead {
 export interface Opportunity {
   id: string
   name: string
-  stage: string
-  amount?: number
+  stage: StageOpportunity
+  amount?: string
   accountName: string
   createdAt: Date
   leadId: string

@@ -1,8 +1,9 @@
+import { useMiniSellerConsoleContext } from "../context/MiniSellerConsoleProvider"
+
 import ConvertLeadDialog from "../components/ConvertLeadDialog"
 import LeadDetailPanel from "../components/LeadDetailPanel"
 import LeadsTable from "../components/LeadsTable"
-import OpportunitiesTable from "../components/OpportunitiesTable"
-import { useMiniSellerConsoleContext } from "../context/MiniSellerConsoleContex"
+import OpportunityTable from "../components/OpportunityTable"
 
 const Index = () => {
   const { errorConfig, loadingLeads, leads } = useMiniSellerConsoleContext()
@@ -49,7 +50,7 @@ const Index = () => {
               <p className="text-gray-500">Track converted leads and their progress</p>
             </div>
 
-            <OpportunitiesTable />
+            <OpportunityTable />
           </div>
         </div>
       </main>
