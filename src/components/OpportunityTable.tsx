@@ -43,50 +43,91 @@ const OpportunityTable = () => {
           </span>
         </div>
         <div className="bg-white rounded-lg shadow max-h-90 bg-green overflow-y-auto">
-          <table className="bg-white rounded-lg shadow overflow-hidden min-w-full divide-y divide-gray-200">
-            <thead className="bg-gray-50">
-              <tr>
-                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                  Name
-                </th>
-                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                  Account
-                </th>
-                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                  Stage
-                </th>
-                <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                  Amount
-                </th>
-              </tr>
-            </thead>
-            <tbody className="bg-white divide-y divide-gray-200">
-              {opportunities.map((opportunity) => (
-                <tr key={opportunity.id} id={opportunity.id}>
-                  <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
-                    {opportunity.name}
-                  </td>
-                  <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                    {opportunity.accountName}
-                  </td>
-                  <td className="px-6 py-4 whitespace-nowrap">
+          {/* Desktop table view */}
+          <div className="hidden md:block overflow-auto">
+            <table className="bg-white rounded-lg shadow overflow-hidden min-w-full divide-y divide-gray-200">
+              <thead className="bg-gray-50">
+                <tr>
+                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                    Name
+                  </th>
+                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                    Account
+                  </th>
+                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                    Stage
+                  </th>
+                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                    Amount
+                  </th>
+                </tr>
+              </thead>
+              <tbody className="bg-white divide-y divide-gray-200">
+                {opportunities.map((opportunity) => (
+                  <tr key={opportunity.id} id={opportunity.id}>
+                    <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                      {opportunity.name}
+                    </td>
+                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                      {opportunity.accountName}
+                    </td>
+                    <td className="px-6 py-4 whitespace-nowrap">
+                      <span
+                        className={`px-2 inline-flex text-xs leading-5 font-semibold rounded-full ${getStageColor(
+                          opportunity.stage
+                        )}`}
+                      >
+                        {opportunity.stage}
+                      </span>
+                    </td>
+                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                      {opportunity.amount
+                        ? `$${opportunity.amount.toLocaleString()}`
+                        : "-"}
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+
+          {/* Mobile cards view */}
+          <div className="md:hidden divide-y divide-gray-200 overflow-y-auto max-h-[calc(100vh-250px)]">
+            {opportunities.map((opportunity) => (
+              <div
+                key={opportunity.id}
+                className="p-4 hover:bg-gray-50 transition-colors duration-150"
+              >
+                <div className="flex justify-between items-start">
+                  <div className="flex-1 min-w-0">
+                    <h3 className="text-sm font-semibold text-gray-900 truncate">
+                      {opportunity.name}
+                    </h3>
+                    <p className="text-sm text-gray-500 truncate">
+                      {opportunity.accountName}
+                    </p>
+                  </div>
+                  <div className="ml-4 flex-shrink-0">
                     <span
-                      className={`px-2 inline-flex text-xs leading-5 font-semibold rounded-full ${getStageColor(
+                      className={`px-2 py-1 text-xs font-semibold rounded-full ${getStageColor(
                         opportunity.stage
                       )}`}
                     >
                       {opportunity.stage}
                     </span>
-                  </td>
-                  <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                  </div>
+                </div>
+                <div className="mt-2">
+                  <p className="text-sm text-gray-500">
+                    <span className="font-medium">Amount:</span>{" "}
                     {opportunity.amount
                       ? `$${opportunity.amount.toLocaleString()}`
                       : "-"}
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+                  </p>
+                </div>
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     </div>
