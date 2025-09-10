@@ -62,7 +62,7 @@ const OpportunityTable = () => {
             </thead>
             <tbody className="bg-white divide-y divide-gray-200">
               {opportunities.map((opportunity) => (
-                <tr key={opportunity.id}>
+                <tr key={opportunity.id} id={opportunity.id}>
                   <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
                     {opportunity.name}
                   </td>
